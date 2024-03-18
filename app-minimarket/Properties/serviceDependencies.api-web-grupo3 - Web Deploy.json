@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/app-minimarketapiv2/apis/app-minimarketv2",
+      "type": "apis.azure"
+    }
+  }
+}
